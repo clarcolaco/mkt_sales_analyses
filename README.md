@@ -1,2 +1,2 @@
-# mkt_sales_analyses
+# mkt_sales_analysis
 - matplot, seaborn, pandas
